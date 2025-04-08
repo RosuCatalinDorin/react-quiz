@@ -1,0 +1,126 @@
+{
+  "34": {
+    "transactions": [
+      {
+        "transactionId": "txn_001",
+        "date": "2023-10-01",
+        "amount": 150.00,
+        "currency": "USD",
+        "merchant": "Amazon",
+        "category": "Shopping",
+        "cardType": "Credit"
+      },
+      {
+        "transactionId": "txn_002",
+        "date": "2023-10-05",
+        "amount": 75.50,
+        "currency": "USD",
+        "merchant": "Starbucks",
+        "category": "Food & Beverage",
+        "cardType": "Debit"
+      },
+      {
+        "transactionId": "txn_003",
+        "date": "2023-10-10",
+        "amount": 200.00,
+        "currency": "USD",
+        "merchant": "Apple Store",
+        "category": "Electronics",
+        "cardType": "Credit"
+      }
+    ]
+  },
+  "12": {
+    "transactions": [
+      {
+        "transactionId": "txn_001",
+        "date": "2023-10-01",
+        "amount": 150.00,
+        "currency": "USD",
+        "merchant": "Amazon",
+        "category": "Shopping",
+        "cardType": "Credit"
+      },
+      {
+        "transactionId": "txn_002",
+        "date": "2023-10-05",
+        "amount": 75.50,
+        "currency": "USD",
+        "merchant": "Starbucks",
+        "category": "Food & Beverage",
+        "cardType": "Debit"
+      },
+      {
+        "transactionId": "txn_003",
+        "date": "2023-10-10",
+        "amount": 200.00,
+        "currency": "USD",
+        "merchant": "Apple Store",
+        "category": "Electronics",
+        "cardType": "Credit"
+      }
+    ]
+  },
+  "1": {
+    "transactions": [
+      {
+        "transactionId": "txn_001",
+        "date": "2023-10-01",
+        "amount": 150.00,
+        "currency": "USD",
+        "merchant": "Amazon",
+        "category": "Shopping",
+        "cardType": "Credit"
+      },
+      {
+        "transactionId": "txn_002",
+        "date": "2023-10-05",
+        "amount": 75.50,
+        "currency": "USD",
+        "merchant": "Starbucks",
+        "category": "Food & Beverage",
+        "cardType": "Debit"
+      },
+      {
+        "transactionId": "txn_003",
+        "date": "2023-10-10",
+        "amount": 200.00,
+        "currency": "USD",
+        "merchant": "Apple Store",
+        "category": "Electronics",
+        "cardType": "Credit"
+      }
+    ]
+  },
+  "2": {
+    "transactions": [
+      {
+        "transactionId": "txn_001",
+        "date": "2023-10-01",
+        "amount": 150.00,
+        "currency": "USD",
+        "merchant": "Amazon",
+        "category": "Shopping",
+        "cardType": "Credit"
+      },
+      {
+        "transactionId": "txn_002",
+        "date": "2023-10-05",
+        "amount": 75.50,
+        "currency": "USD",
+        "merchant": "Starbucks",
+        "category": "Food & Beverage",
+        "cardType": "Debit"
+      },
+      {
+        "transactionId": "txn_003",
+        "date": "2023-10-10",
+        "amount": 200.00,
+        "currency": "USD",
+        "merchant": "Apple Store",
+        "category": "Electronics",
+        "cardType": "Credit"
+      }
+    ]
+  }
+}

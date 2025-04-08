@@ -1,0 +1,23 @@
+[{
+  "id": 1,
+  "name": "John Doe",
+  "email": "johndoe@example.com",
+  "username": "johndoe",
+  "address": {
+    "street": "123 Main St",
+    "suite": "Apt. 1",
+    "city": "Anytown",
+    "zipcode": "12345",
+    "geo": {
+      "lat": "40.7128",
+      "lng": "-74.0060"
+    }
+  },
+  "phone": "1-555-555-5555",
+  "website": "johndoe.com",
+  "company": {
+    "name": "Doe Enterprises",
+    "catchPhrase": "Innovative solutions for modern problems",
+    "bs": "synergize scalable solutions"
+  }
+}]
