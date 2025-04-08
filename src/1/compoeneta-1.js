@@ -4,7 +4,6 @@ const Component1 = () => {
     const [data, setData] = useState(null);
     const [loading, setLoading] = useState(false);
 
-    // Fetching data in render method (bad practice)
     if (!data && !loading) {
         setLoading(true);
         fetch('http://localhost:3000/data.json')
